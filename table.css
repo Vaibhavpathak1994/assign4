@@ -1,0 +1,28 @@
+table{
+	background: ;
+	width: 900px;
+	margin-left: 100px;
+	margin-top: 150px;
+	font-size: 20px;
+	padding: 0px;
+	border-spacing: 0px;
+	border:2px solid black;
+	text-align: center;
+}
+tr:nth-child(odd){
+	background-color:lightgray;
+}
+th{
+	border: 1px solid black;
+	text-align: center;
+	height: 10px;
+	background: grey;
+	border-spacing: 10px;
+	width: 200px;
+}
+td{
+	border: 1px solid black;
+	text-align: center;
+	height: 10px;
+	width:200px;
+}
